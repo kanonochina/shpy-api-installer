@@ -226,6 +226,9 @@ io.on('connection', function (socket) {
 
 
             // shopifyCreatePage("POST", "pages.json", urlstore, userapi, paswordapi, "FAQQQQ", selector.htmlFAQ);
+
+// REGEX  (,\s*?(\s|\S)"variant_ids"(\s|\S)*?])
+
             // shopifyCheckPage("GET", "pages.json", urlstore, userapi, paswordapi);
             if (installtheme) {
                 
