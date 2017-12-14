@@ -1,5 +1,8 @@
 #OS junk files
 node_modules
+cheatsheet.md
+george.html
+george.php
 [Tt]humbs.db
 *.DS_Store
 
