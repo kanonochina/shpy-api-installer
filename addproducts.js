@@ -22,33 +22,7 @@ io.on('connection', function (socket) {
 
 
 /*      
-George
-https://g3goods.myshopify.com
-d9c2519e276bb62bf3447a7993874ffb
-e6f2aecbfe7815113b5944ea2cca5fe0
 
-
-Demetrius Spates
-https://idealfinds-com.myshopify.com
-2966167133742621e6b9cae140c541e4
-a498b602dff2a5816f54270008156c83
-
-Chris Day
-https://blissful-beauty-shop.myshopify.com
-73510d965c666359b3fb6cc9f4805889
-5140f04d51a8a69a15f8a3a8071c86dc
-        
-
-Alex Emralino
-https://alxgenstore.myshopify.com
-739764d313f0f32bd768bd1580eb6826
-86642034773a844ca5844a46595f8de0
-
-
-Test
-https://shop-mermaid-blanket.myshopify.com
-18e54f30816bdef45966d7c33788cf9b
-8ea00e379bca274a85b32b0552b9211a
 
   */      
         
